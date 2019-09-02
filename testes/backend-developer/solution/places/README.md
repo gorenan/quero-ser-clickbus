@@ -118,3 +118,10 @@
 - OK
 - Internal Server Error - in case of exception
 - Bad Request - in case of missing some required field.
+
+###
+###URL for test:
+http://ec2-18-191-170-125.us-east-2.compute.amazonaws.com:8080/ + nameOfMethod
+
+###Example:
+http://ec2-18-191-170-125.us-east-2.compute.amazonaws.com:8080/getPlacesByName?name=Test
