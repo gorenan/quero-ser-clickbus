@@ -12,14 +12,5 @@ public interface PlacesService {
 	
 	void save(PlaceEntity place) throws Exception;
 	
-/*
- * DNAEntity buscarDNA(DNAEntity dna);
-	
-	void salvar(DNAEntity dna);
-	
-	Integer buscaQuantidadeSimios();
-	
-	Integer buscaQuantidadeHumanos();
- * */
 	
 }
